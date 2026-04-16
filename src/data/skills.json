@@ -1,0 +1,18 @@
+{
+  "technical": [
+    { "name": "Microcontroller Programming", "detail": "ARM, dsPIC, PIC, AVR, 8051", "level": 95 },
+    { "name": "C/C++ & Python", "detail": "Embedded & Application Development", "level": 90 },
+    { "name": "PCB Design", "detail": "Altium, DipTrace, Proteus", "level": 92 },
+    { "name": "Circuit Simulation", "detail": "Proteus, PSPICE, Circuit Wizard", "level": 88 },
+    { "name": "PLC Programming", "detail": "SIEMENS, LG, DELTA, MITSUBISHI", "level": 85 },
+    { "name": "AutoCAD 2D Modeling", "detail": "Technical Drawings & Schematics", "level": 80 },
+    { "name": "IoT Cloud Platforms", "detail": "ThingSpeak, Thingworx, Samsung ARTIK", "level": 90 }
+  ],
+  "soft": [
+    "Communication & Leadership",
+    "Critical Thinking & Creativity",
+    "Project Planning & Management",
+    "Data Analysis & Research",
+    "Product Development"
+  ]
+}

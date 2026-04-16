@@ -1,0 +1,38 @@
+[
+  {
+    "company": "PValley",
+    "role": "CEO & Product Development Engineer",
+    "period": "2019 – Present",
+    "description": "Leading product development for IoT and embedded solutions, overseeing engineering teams, and driving innovation in smart systems."
+  },
+  {
+    "company": "PValley",
+    "role": "CEO & Master Trainer",
+    "period": "2014 – 2019",
+    "description": "Founded and scaled training programs for electronics and embedded systems. Mentored engineers and developed curriculum."
+  },
+  {
+    "company": "SERVICEONE",
+    "role": "Security Services Specialist",
+    "period": "2013 – 2014",
+    "description": "Specialized in security system design and implementation for enterprise clients."
+  },
+  {
+    "company": "Triangle Services Ltd",
+    "role": "Assistant Trainer",
+    "period": "2012 – 2013",
+    "description": "Delivered technical training on electronics engineering and industrial automation systems."
+  },
+  {
+    "company": "MediPRO Ltd",
+    "role": "Assistant System Engineer",
+    "period": "2011 – 2012",
+    "description": "Designed and maintained embedded systems for medical device applications."
+  },
+  {
+    "company": "Rural Reconstruction Foundation",
+    "role": "Researcher",
+    "period": "2009 – 2010",
+    "description": "Conducted field research on technology solutions for rural development and agriculture."
+  }
+]
